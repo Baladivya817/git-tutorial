@@ -12,3 +12,5 @@ sssiiiiqqqqq
 :wq
 q
 saome new code changes updates
+
+updating diretly on remote repo.
